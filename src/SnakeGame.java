@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class SnakeGame {
     public static void main(String[] args) {
-
-        }
+        new GameFrame();
     }
+}
